@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header, footer {
+	background: rgba(204,202,202,1.00);
+	border: solid 1px grey;
+	height: 70px;
+	clear: both;
+}
+section {
+	background: rgba(204,202,202,1.00);
+	border: solid 1px grey;
+	height: 100px;
+}
+aside {
+	background: rgba(204,202,202,1.00);
+	border: solid 1px grey;
+	height: 130px;
+	float: left;
+	width: 30%;
+}
+.body {
+	background: rgba(204,202,202,1.00);
+	border: solid 1px grey;
+	height: 130px;
+	float: left;
+	width: 69%;
+}
